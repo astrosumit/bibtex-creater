@@ -12,11 +12,6 @@ It will also take care of the repeated bibliography entries.
 It will delete any previously created "reference.bib" file
 and make a new one.
 
-The future scope of improvement: For the same authors and
-year of publication, the program should add 'a','b','c'
-identifiers in the year.
-
-
 #The format of "references" input file:
 2004ApJ...604L..33Z
 1980Natur.287..307B
