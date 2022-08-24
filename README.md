@@ -7,7 +7,9 @@ This program reads the bibliography codes one-by one from an input file "referen
 The format of "references" input file:
 
 2004ApJ...604L..33Z
+
 1980Natur.287..307B
+
 2002A&A...388..470D
 
 
